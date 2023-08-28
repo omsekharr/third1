@@ -1,1 +1,2 @@
 hii this is bugfile shoudl not be added to antohrer one to arow
+we added bug file with my seanrio
